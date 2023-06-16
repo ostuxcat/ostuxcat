@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ameya (BlackCat)</h1>
 <h3 align="center">A Passionate Backend Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyagurjar&label=Profile%20views&color=00ff00&style=plastic" alt="ameyagurjar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameyagurjar&label=Profile%20views&color=00ff00&style=plastic" alt="ameyagurjar" /> </p>
 
 - 🌱 I’m currently learning **Custom Rom Development.**
 
