@@ -1,3 +1,6 @@
+![AmeyaGurjar](https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/d74ce416-8d54-48b2-b93f-1fdaa0b3bfb4)
+
+
 ### BlackCat
 **`A Cat That Codes.`**
 
