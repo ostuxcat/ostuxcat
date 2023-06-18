@@ -1,4 +1,5 @@
-![AmeyaGurjar](https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/68d36b3f-2131-4471-a019-b6799e55b23e)
+![AmeyaGurjar](https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176)
+
 
 
 ### BlackCat
