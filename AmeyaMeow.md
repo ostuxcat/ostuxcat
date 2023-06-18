@@ -1,4 +1,4 @@
-# BlackCat
+### BlackCat
 ```A Cat That Codes.```
 
 I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
@@ -19,7 +19,7 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
   </a>
 </a>
 
-# Languages & Tools
+### Languages & Tools
 <img alt="python" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="javascript" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="C" width="30px" align="left" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -35,15 +35,15 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 <img alt="Bash" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <br/>
 
-# Top Projects
+### Top Projects
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
 <br>
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=device_xiaomi_veux&theme=dark)](https://github.com/AmeyaGurjar/device_xiaomi_veux)
 
-# Stats
+### Stats
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
 
-# Support Me
+### Support Me
 You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
