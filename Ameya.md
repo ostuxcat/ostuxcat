@@ -40,3 +40,6 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
 <br>
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=device_xiaomi_veux&theme=dark)](https://github.com/AmeyaGurjar/device_xiaomi_veux)
+
+# Stats
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
