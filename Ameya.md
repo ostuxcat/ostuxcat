@@ -23,5 +23,5 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 <img alt="C++" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img alt="HTML" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img alt="CSS" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img alt="" align="left" width="30px" style="padding-right:10px" src="">
-<img alt="" align="left" width="30px" style="padding-right:10px" src="">
+<img alt="Linux" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img alt="React" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
