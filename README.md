@@ -11,7 +11,9 @@
 - 📫 How to reach me **amey992004@gmail.com**
 
 - ⚡ Fun fact **I'm A Cat.**
-
+<br>
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/amey.gurjar.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amey.gurjar.94" height="30" width="40" /></a>
@@ -30,9 +32,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amey992004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/amey992004" /></a><a href="https://ko-fi.com/https://www.ko-fi.com/ameyagurjar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.ko-fi.com/ameyagurjar" /></a></p><br><br>
 <br><br>
 
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
 <h1>Top Projects</h1>
-<br>
 
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
 <br>
