@@ -5,7 +5,7 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 
 <a align="left">
     <a href="https://facebook.com/amey.gurjar.94">
-    <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://instagram.com/meowameya">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
@@ -15,3 +15,5 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
     </a>
   </a>
 </a>
+
+# Languages & Tools
