@@ -29,7 +29,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameyagurjar&theme=dark&layout=compact)](https://github.com/AmeyaGurjar/)
 <br>
-Top Projects
+#Top Projects
 <br>
 [![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
 <br>
