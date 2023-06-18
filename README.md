@@ -15,7 +15,6 @@
 
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/amey.gurjar.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amey.gurjar.94" height="30" width="40" /></a>
