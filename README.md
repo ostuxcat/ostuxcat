@@ -1,4 +1,4 @@
-![AmeyaGurjar](https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176)
+<img align="right" width="300rem" src="https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176">
 
 
 
