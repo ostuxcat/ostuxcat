@@ -17,6 +17,7 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 </a>
 
 # Languages & Tools
+<a align="left">
 <img alt="python" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img alt="javascript" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img alt="C" width="30px" align="left" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -30,3 +31,8 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 <img alt="Linux" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img alt="Android" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 <img alt="Bash" align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</a>
+
+# Top Projects
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=device_xiaomi_veux&theme=dark)](https://github.com/AmeyaGurjar/device_xiaomi_veux)
