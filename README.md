@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact **I'm A Cat.**
 <br>
+
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
