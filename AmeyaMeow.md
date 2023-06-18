@@ -43,3 +43,17 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 
 # Stats
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
+
+# Support Me
+<a align="left">
+    <a href="https://paypal.me/AmeyMeow">
+        <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
+    </a><br>
+    <a href="https://www.buymeacoffee.com/amey992004">
+        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-ffff00?style=for-the-badge&logo=coffee-meow">
+    </a>
+    <a href="https://ko-fi.com/ameyagurjar">
+        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-229ed9?style=for-the-badge&logo=kofi-meow">
+    </a>
+  </a>
+</a>
