@@ -17,3 +17,7 @@ I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India
 </a>
 
 # Languages & Tools
+<a align="left">
+    <img alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</a>
