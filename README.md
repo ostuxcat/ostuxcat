@@ -9,7 +9,7 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
     <a href="https://facebook.com/amey.gurjar.94">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="https://instagram.com/meowameya">
+    <a href="https://instagram.com/opensourceblackcat">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://t.me/OpenSourceBlackCat">
