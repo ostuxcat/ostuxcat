@@ -11,6 +11,9 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
     </a>
     <a href="https://instagram.com/opensourceblackcat">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
+    </a><br>
+    <a href="https://open.spotify.com/user/314rtkwevaue63uatqz3mso2rawe">
+        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-191414?style=for-the-badge&logo=spotify&logoColor=green">
     </a>
     <a href="https://t.me/OpenSourceBlackCat">
         <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceBlackCat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
