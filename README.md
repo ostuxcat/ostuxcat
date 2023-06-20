@@ -52,7 +52,7 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 ### Stats
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
 <br>
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=314rtkwevaue63uatqz3mso2rawe)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=314rtkwevaue63uatqz3mso2rawe&width=500)
 
 ### Support Me
 You Can Sponsor Me By Donating Some Amount.
