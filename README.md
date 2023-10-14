@@ -58,7 +58,7 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
-    <a href="https://github.com/sponsors/AmeyaGurjar">
+    <a href="https://github.com/sponsors/OpenSourceBlackCat">
         <img src="https://custom-icon-badges.demolab.com/badge/AmeyaGurjar-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
     </a>
     <a href="https://paypal.me/AmeyMeow">
