@@ -45,12 +45,12 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 ‎ ‎ ‎ ‎ 
 
 ### Top Projects
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=AmeyBot&theme=dark)](https://github.com/AmeyaGurjar/AmeyBot)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceBlackCat&repo=MeowBot&theme=dark)](https://github.com/OpenSourceBlackCat/MeowBot)
 <br>
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ameyagurjar&repo=device_xiaomi_veux&theme=dark)](https://github.com/AmeyaGurjar/device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceBlackCat&repo=device_xiaomi_veux&theme=dark)](https://github.com/OpenSourceBlackCat/device_xiaomi_veux)
 
 ### Stats
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameyagurjar&show_icons=true&theme=dark)
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSourceBlackCat&show_icons=true&theme=dark)
 <br>
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=314rtkwevaue63uatqz3mso2rawe&width=470)
 
