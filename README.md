@@ -53,6 +53,9 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 ![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSourceBlackCat&show_icons=true&theme=dark)
 <br>
 
+### CS50Python
+![CS50Python Certificate](https://certificates.cs50.io/15b5f8e8-65ef-43cb-8ed3-8a65d8296a5b.png)
+
 ### Support Me
 You Can Sponsor Me By Donating Some Amount.
 <br>
