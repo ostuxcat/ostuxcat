@@ -1,9 +1,9 @@
 <img align="center" width="300rem" src="https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176">
 
-### BlackCat
+### TuxedoCat
 **`A Cat That Codes.`**
 
-Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
+Hello, I'm Ameya Gurjar, also known as TuxedoCat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
 
 <a align="left">
     <a href="https://facebook.com/amey.gurjar.94">
@@ -13,13 +13,13 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
     </a><br>
     <a href="https://open.spotify.com/user/314rtkwevaue63uatqz3mso2rawe">
-        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-191414?style=for-the-badge&logo=spotify&logoColor=1DB954">
+        <img src="https://custom-icon-badges.demolab.com/badge/TuxedoCat-191414?style=for-the-badge&logo=spotify&logoColor=1DB954">
     </a>
     <a href="https://t.me/OpenSourceBlackCat">
-        <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceBlackCat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceTuxedoCat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <a href="https://discord.com/users/730518724984963183">
-        <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceBlackCat-7289da?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/OpenSourceTuxedoCat-7289da?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </a>
 </a>
@@ -45,12 +45,12 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 ‎ ‎ ‎ ‎ 
 
 ### Top Projects
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceBlackCat&repo=MeowBot&theme=dark)](https://github.com/OpenSourceBlackCat/MeowBot)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceTuxedoCat&repo=MeowBot&theme=dark)](https://github.com/OpenSourceBlackCat/MeowBot)
 <br>
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceBlackCat&repo=device_xiaomi_veux&theme=dark)](https://github.com/OpenSourceBlackCat/device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceTuxedoCat&repo=device_xiaomi_veux&theme=dark)](https://github.com/OpenSourceBlackCat/device_xiaomi_veux)
 
 ### Stats
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSourceBlackCat&show_icons=true&theme=dark)
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTuxedoCat&show_icons=true&theme=dark)
 <br>
 
 ### CS50Python
@@ -60,17 +60,17 @@ Hello, I'm Ameya Gurjar, also known as BlackCat, a coding enthusiast from Mumbai
 You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
-    <a href="https://github.com/sponsors/OpenSourceBlackCat">
+    <a href="https://github.com/sponsors/OpenSourceTuxedoCat">
         <img src="https://custom-icon-badges.demolab.com/badge/AmeyaGurjar-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
     </a>
     <a href="https://paypal.me/AmeyMeow">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a><br>
     <a href="https://www.buymeacoffee.com/amey992004">
-        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-ffff00?style=for-the-badge&logo=coffee-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/TuxedoCat-ffff00?style=for-the-badge&logo=coffee-meow">
     </a>
     <a href="https://ko-fi.com/ameyagurjar">
-        <img src="https://custom-icon-badges.demolab.com/badge/BlackCat-229ed9?style=for-the-badge&logo=kofi-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/TuxedoCat-229ed9?style=for-the-badge&logo=kofi-meow">
     </a>
   </a>
 </a>
