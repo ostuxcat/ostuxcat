@@ -1,9 +1,9 @@
 <img align="center" width="300rem" src="https://github.com/AmeyaGurjar/AmeyaGurjar/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176">
 
-### TuxedoCat
+### osdigicat
 **`A Cat That Codes.`**
 
-Hello, I'm Ameya Gurjar, also known as TuxedoCat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
+Hello, I'm Ameya Gurjar, also known as osdigicat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
 
 <a align="left">
     <a href="https://facebook.com/amey.gurjar.94">
