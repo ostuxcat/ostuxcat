@@ -63,7 +63,7 @@ You Can Sponsor Me By Donating Some Amount.
     <a href="https://github.com/sponsors/osdigicat">
         <img src="https://custom-icon-badges.demolab.com/badge/AmeyaGurjar-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
     </a>
-    <a href="https://paypal.me/AmeyMeow">
+    <a href="https://paypal.me/ameyagurjar09">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a><br>
     <a href="https://www.buymeacoffee.com/amey992004">
