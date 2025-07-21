@@ -1,25 +1,25 @@
-<img align="center" width="300rem" src="https://github.com/osdigicat/osdigicat/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176">
+<img align="center" width="300rem" src="https://github.com/ostuxcat/ostuxcat/assets/65576885/c66847b8-82de-41c7-b8fb-b5861a0e7176">
 
-### osdigicat
+### ostuxcat
 **`A Cat That Codes.`**
 
-Hello, I'm Ameya Gurjar, also known as osdigicat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
+Hello, I'm Ameya Gurjar, also known as ostuxcat, a coding enthusiast from Mumbai, India. I'm an ardent cat lover and a coding enthusiast. On this Github profile, you'll find a fusion of my two passions - cats and code. Join me on this exciting journey as we explore the world of cats who code, creating innovative projects and leaving our unique paw prints on the digital realm. Let's embrace the meow-tastic synergy of cats and coding!
 
 <a align="left">
-    <a href="https://facebook.com/osdigicat">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
+    <a href="https://facebook.com/ostuxcat">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-0000ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="https://instagram.com/osdigicat">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href="https://instagram.com/ostuxcat">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-ff00ff?style=for-the-badge&logo=instagram&logoColor=white">
     </a><br>
     <a href="https://open.spotify.com/user/314rtkwevaue63uatqz3mso2rawe">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-191414?style=for-the-badge&logo=spotify&logoColor=1DB954">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-191414?style=for-the-badge&logo=spotify&logoColor=1DB954">
     </a>
-    <a href="https://t.me/osdigicat">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
+    <a href="https://t.me/ostuxcat">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <a href="https://discord.com/users/730518724984963183">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-7289da?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-7289da?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </a>
 </a>
@@ -45,12 +45,12 @@ Hello, I'm Ameya Gurjar, also known as osdigicat, a coding enthusiast from Mumba
 ‎ ‎ ‎ ‎ 
 
 ### Top Projects
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=osdigicat&repo=MeowBot&theme=dark)](https://github.com/osdigicat/MeowBot)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ostuxcat&repo=MeowBot&theme=dark)](https://github.com/ostuxcat/MeowBot)
 <br>
-[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=osdigicat&repo=device_xiaomi_veux&theme=dark)](https://github.com/osdigicat/device_xiaomi_veux)
+[![Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=ostuxcat&repo=device_xiaomi_veux&theme=dark)](https://github.com/ostuxcat/device_xiaomi_veux)
 
 ### Stats
-![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=osdigicat&show_icons=true&theme=dark)
+![Ameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ostuxcat&show_icons=true&theme=dark)
 <br>
 
 ### CS50Python
@@ -60,17 +60,17 @@ Hello, I'm Ameya Gurjar, also known as osdigicat, a coding enthusiast from Mumba
 You Can Sponsor Me By Donating Some Amount.
 <br>
 <a align="left">
-    <a href="https://github.com/sponsors/osdigicat">
+    <a href="https://github.com/sponsors/ostuxcat">
         <img src="https://custom-icon-badges.demolab.com/badge/AmeyaGurjar-36454F?style=for-the-badge&logo=sponsor&logoColor=pink">
     </a>
     <a href="https://paypal.me/ameyagurjar09">
         <img src="https://custom-icon-badges.demolab.com/badge/Ameya Gurjar-3b7bbf?style=for-the-badge&logo=paypal&logoColor=white">
     </a><br>
     <a href="https://www.buymeacoffee.com/amey992004">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-ffff00?style=for-the-badge&logo=coffee-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-ffff00?style=for-the-badge&logo=coffee-meow">
     </a>
     <a href="https://ko-fi.com/ameyagurjar">
-        <img src="https://custom-icon-badges.demolab.com/badge/osdigicat-229ed9?style=for-the-badge&logo=kofi-meow">
+        <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-229ed9?style=for-the-badge&logo=kofi-meow">
     </a>
   </a>
 </a>
